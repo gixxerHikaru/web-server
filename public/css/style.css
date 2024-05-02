@@ -1,0 +1,25 @@
+h1 {
+    color: gray;
+}
+
+h2 {
+    background-color: brown;
+}
+
+h3 {
+    color: blueviolet;
+}
+
+img {
+    width: 500px;
+}
+
+input {
+    padding: 5px;
+}
+
+button {
+    color: white;
+    background-color: blue;
+    border-color: white;
+}
